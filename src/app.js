@@ -23,38 +23,24 @@ export default class App extends React.Component {
       projects: [ {category:"Logos",
                     designs: [
         {
-          title: "Web Dev Toolkit App",
+          title: "Same Day Repair Logo",
           img:
-            "https://github.com/tsimpkins73/PORT-SITE/blob/master/images/WDTK-Dashboard-SC.png?raw=true",
-          repoLink: "https://github.com/tsimpkins73/Web-Dev-Toolkit-Client",
-          liveLink: "https://web-dev-toolkit-client.now.sh/",
+            "./images/graphic design/logos/A-Same-Day-Repair-Logo-MockUp.jpg",
           summary:
-            "Web Dev Toolkit is an aggregated resource hub. This app makes it easy for Web Developers to find learning and working resources in one location.",
-          description:
-            "Web Dev Toolkit is an aggregated resource hub. This app makes it easy for Web Developers to find learning and working resources in one location. The resources are grouped together based upon their type; Tutorials, Course, Videos, and Utilities. This app allows authorized users to visit a variety of web development resources, save favorite resources, and search through resources to find specific content. Web Dev Toolkit client was built using React and vanilla HTML & CSS.It utilizes React - Router and other functions to navigate through content choices and manipulation.The custom Web Dev Toolkit API was built using Node, PostgreSQL, knex, and Express.It also utilizes chai & Mocha as testing methods, and JWT for authentication.",
-        },
+            "A contemporary logo design for a repair company. Designed in Adobe Illustrator.",
+         },
         {
-          title: "theConsole Web Development Blog",
+          title: "CPA Logo",
           img:
-            "https://github.com/tsimpkins73/PORT-SITE/blob/master/images/theConsole-Dashboard-SC.png?raw=true",
-          repoLink: "https://github.com/tsimpkins73/theConsole",
-          liveLink: "https://theconsole-thankful-cassowary.now.sh/",
+            "./images/graphic design/logos/Bayshore-CPA-Logo-Mockup.jpg",
           summary:
-            "theConsole is a blog dedicated to republishing articles useful to and centered around web development.",
-          description:
-            "theConsole is a blog dedicated to republishing articles useful to and centered around web development. This app allows authorized users to read articles, save favorite articles, and comment on articles.The user can also search for articles or peruse articles based on their category. theConsole client was built using React and vanilla HTML & CSS.It utilizes React - Router and other functions to navigate through content choices and manipulation.The custom theConsole API was built using Node, PostgreSQL, knex, and Express.It also utilizes chai & Mocha as testing methods.",
-        },
+            "A contemporary logo design for a CPA. Designed in Adobe Illustrator.",},
         {
-          title: "Flipping Wars",
+          title: "Memory Care Center Logo",
           img:
-            "https://raw.githubusercontent.com/tsimpkins73/PORT-SITE/master/images/FlippingAppScreenshot.png",
-          repoLink: "https://github.com/tsimpkins73/Flipping-Game",
-          liveLink: "https://flipping-wars.vercel.app/",
+            "./images/graphic design/logos/Bayshore-Memory-Care-Logo-Mockup.jpg",
           summary:
-            " A buying and selling game where you buy low and (hopefully) sell high. It is built with HTML5, CSS, JavaScript, & React.",
-          description:
-            " A buying and selling game where you buy low and (hopefully) sell high. It is built with HTML5, CSS, JavaScript, & React.",
-        },
+            "A contemporary logo design for a repair company. Designed in Adobe Illustrator.",},
         {
           title: "Marvel Character Search App Project",
           img:
