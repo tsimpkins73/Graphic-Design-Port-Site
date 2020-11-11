@@ -25,47 +25,22 @@ export default class App extends React.Component {
         {
           title: "Same Day Repair Logo",
           img:
-            "./images/graphic design/logos/A-Same-Day-Repair-Logo-MockUp.jpg",
+            '/images/graphic design/logos/A-Same-Day-Repair-Logo-MockUp.jpg',
           summary:
             "A contemporary logo design for a repair company. Designed in Adobe Illustrator.",
          },
         {
           title: "CPA Logo",
           img:
-            "./images/graphic design/logos/Bayshore-CPA-Logo-Mockup.jpg",
+            '/images/graphic design/logos/Bayshore-CPA-Logo-Mockup.jpg',
           summary:
             "A contemporary logo design for a CPA. Designed in Adobe Illustrator.",},
         {
           title: "Memory Care Center Logo",
           img:
-            "./images/graphic design/logos/Bayshore-Memory-Care-Logo-Mockup.jpg",
+            '/images/graphic design/logos/Bayshore-Memory-Care-Logo-Mockup.jpg',
           summary:
             "A contemporary logo design for a repair company. Designed in Adobe Illustrator.",},
-        {
-          title: "Marvel Character Search App Project",
-          img:
-            "https://raw.githubusercontent.com/tsimpkins73/PORT-SITE/master/images/CharacterSearchAppScreenshot.png",
-          repoLink:
-            "https://github.com/tsimpkins73/Marvel-Character-Search-App",
-          liveLink:
-            "https://tsimpkins73.github.io/Marvel-Character-Search-App/",
-            summary:
-            "This is a character search app that returns images, storylines and other information about the searched character.",
-          description:
-            "This is a character search app that returns images, storylines and other information about the searched character. The search functionality retrieves information from the Marvel API(https: //developer.marvel.com) & the Movie Database API (https: //developers.themoviedb.org/3). This page was built with HTML5, CSS, Javascript, & Jquery.",
-        },
-        {
-          title: "Marvel Quiz App",
-          img:
-            "https://repository-images.githubusercontent.com/193247239/5c9a6380-98e7-11e9-99c1-e985be06553d",
-          repoLink:
-            "https://github.com/tsimpkins73/Quiz-App",
-          liveLink: "https://tsimpkins73.github.io/Quiz-App//",
-          summary:
-            "This is a functional quiz app abotu Marvel comics characters.",
-          description:
-            "This is a functional quiz app built with HTML5, CSS, Javascript, & Jquery.",
-        },
       ]},
       {category: "Brochures",
       designs: []},
@@ -76,7 +51,7 @@ export default class App extends React.Component {
       {category:"Postcards",
       designs: []},
       ],
-    };uet
+    };
   }
 
   aboutMeButton = () => {
