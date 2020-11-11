@@ -25,25 +25,197 @@ export default class App extends React.Component {
         {
           title: "Same Day Repair Logo",
           img:
-            '/images/graphic design/logos/A-Same-Day-Repair-Logo-MockUp.jpg',
+            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/A-Same-Day-Repair-Logo-MockUp.jpg',
           summary:
             "A contemporary logo design for a repair company. Designed in Adobe Illustrator.",
          },
         {
           title: "CPA Logo",
           img:
-            '/images/graphic design/logos/Bayshore-CPA-Logo-Mockup.jpg',
+            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Bayshore-CPA-Logo-Mockup.jpg',
           summary:
             "A contemporary logo design for a CPA. Designed in Adobe Illustrator.",},
         {
           title: "Memory Care Center Logo",
           img:
-            '/images/graphic design/logos/Bayshore-Memory-Care-Logo-Mockup.jpg',
+            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Bayshore-Memory-Care-Logo-Mockup.jpg',
           summary:
-            "A contemporary logo design for a repair company. Designed in Adobe Illustrator.",},
+            "A contemporary logo design for a memory care center. Designed in Adobe Illustrator.",},
+            {
+              title: "Blue Star Insurance Logo",
+              img:
+                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Blue-Star-Logo.jpg',
+              summary:
+                "A contemporary logo design for an insurance company. Designed in Adobe Illustrator.",
+             },
+            {
+              title: "Creative Administrative Consulting Logo",
+              img:
+                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Creative-Administrative-Consulting-Logo.jpg',
+              summary:
+                "A modern logo design for a consulting agency. Designed in Adobe Illustrator.",},
+            {
+              title: "Integrity Business Brokers Logo",
+              img:
+                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Integrity%20Business%20Brokers%20Logo%20MockUp.jpg',
+              summary:
+                "A modern logo design for a business brokers company. Designed in Adobe Illustrator.",},
+                {
+                  title: "Inventors Launchpad Logo",
+                  img:
+                    'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Inventors%20Launchpad%20Logo%20MockUp.jpg',
+                  summary:
+                    "A playful, modern logo design for an invnetor's resource company. Designed in Adobe Illustrator.",
+                 },
+                {
+                  title: "Kraken Up Logo",
+                  img:
+                    'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Kraken%20Up%20Logo.jpg',
+                  summary:
+                    "A modern, grunge style logo design for a recreational vehicle accessory and repair company. Designed in Adobe Illustrator.",},
+                {
+                  title: "La Ceiba Restaurant Logo",
+                  img:
+                    'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/La%20Ceiba%20Logo%20MockUp.jpg',
+                  summary:
+                    "A playful, modern logo design for a restaurant in Cuba. Designed in Adobe Illustrator.",},
+                    {
+                      title: "Monarca Cigar Logo",
+                      img:
+                        'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Monarca%20Cigar%20Logo.jpg',
+                      summary:
+                        "A modern logo design for an cigar company. Designed in Adobe Illustrator.",
+                     },
+                    {
+                      title: "RC Classic & Collision",
+                      img:
+                        'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/RC%20Classic%20%26%20Collision%20Logo.jpg',
+                      summary:
+                        "A classic logo design for a classic car sales & repairs company. Designed in Adobe Illustrator.",},
+                    {
+                      title: "Remarkable Real Estate Logo",
+                      img:
+                        'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Remarkable%20Real%20Estate%20Logo%20Mockup.jpg',
+                      summary:
+                        "A modern logo design for a real estate company. Designed in Adobe Illustrator.",},
+                                                  {
+                              title: "Sisia Hotel Logo",
+                              img:
+                                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Sisia%20Logo%20MockUp.jpg',
+                              summary:
+                                "A playful, modern logo design for a hotel & resort. Designed in Adobe Illustrator.",
+                             },
+                            {
+                              title: "Symmetry Chiropractic Logo",
+                              img:
+                                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Symmetry%20Chiropractic%20Logo.jpg',
+                              summary:
+                                "A modern corporate logo design for a chiropractic practice. Designed in Adobe Illustrator.",},
+                            {
+                              title: "Universal Flooring Logo",
+                              img:
+                                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Universal%20Flooring%20Logo%20MockUp.jpg',
+                              summary:
+                                "A modern corporate logo design for a flooring company. Designed in Adobe Illustrator.",},
       ]},
       {category: "Brochures",
-      designs: []},
+      designs:  [
+        {
+          title: "Academic Alliance Brochure",
+          img:
+            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/brochures/Academic%20Alliance%20Brochure.jpg',
+          summary:
+            "A contemporary logo design for a repair company. Designed in Adobe Illustrator.",
+         },
+        {
+          title: "CPA Logo",
+          img:
+            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Bayshore-CPA-Logo-Mockup.jpg',
+          summary:
+            "A contemporary logo design for a CPA. Designed in Adobe Illustrator.",},
+        {
+          title: "Memory Care Center Logo",
+          img:
+            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Bayshore-Memory-Care-Logo-Mockup.jpg',
+          summary:
+            "A contemporary logo design for a memory care center. Designed in Adobe Illustrator.",},
+            {
+              title: "Blue Star Insurance Logo",
+              img:
+                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Blue-Star-Logo.jpg',
+              summary:
+                "A contemporary logo design for an insurance company. Designed in Adobe Illustrator.",
+             },
+            {
+              title: "Creative Administrative Consulting Logo",
+              img:
+                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Creative-Administrative-Consulting-Logo.jpg',
+              summary:
+                "A modern logo design for a consulting agency. Designed in Adobe Illustrator.",},
+            {
+              title: "Integrity Business Brokers Logo",
+              img:
+                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Integrity%20Business%20Brokers%20Logo%20MockUp.jpg',
+              summary:
+                "A modern logo design for a business brokers company. Designed in Adobe Illustrator.",},
+                {
+                  title: "Inventors Launchpad Logo",
+                  img:
+                    'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Inventors%20Launchpad%20Logo%20MockUp.jpg',
+                  summary:
+                    "A playful, modern logo design for an invnetor's resource company. Designed in Adobe Illustrator.",
+                 },
+                {
+                  title: "Kraken Up Logo",
+                  img:
+                    'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Kraken%20Up%20Logo.jpg',
+                  summary:
+                    "A modern, grunge style logo design for a recreational vehicle accessory and repair company. Designed in Adobe Illustrator.",},
+                {
+                  title: "La Ceiba Restaurant Logo",
+                  img:
+                    'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/La%20Ceiba%20Logo%20MockUp.jpg',
+                  summary:
+                    "A playful, modern logo design for a restaurant in Cuba. Designed in Adobe Illustrator.",},
+                    {
+                      title: "Monarca Cigar Logo",
+                      img:
+                        'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Monarca%20Cigar%20Logo.jpg',
+                      summary:
+                        "A modern logo design for an cigar company. Designed in Adobe Illustrator.",
+                     },
+                    {
+                      title: "RC Classic & Collision",
+                      img:
+                        'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/RC%20Classic%20%26%20Collision%20Logo.jpg',
+                      summary:
+                        "A classic logo design for a classic car sales & repairs company. Designed in Adobe Illustrator.",},
+                    {
+                      title: "Remarkable Real Estate Logo",
+                      img:
+                        'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Remarkable%20Real%20Estate%20Logo%20Mockup.jpg',
+                      summary:
+                        "A modern logo design for a real estate company. Designed in Adobe Illustrator.",},
+                                                  {
+                              title: "Sisia Hotel Logo",
+                              img:
+                                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Sisia%20Logo%20MockUp.jpg',
+                              summary:
+                                "A playful, modern logo design for a hotel & resort. Designed in Adobe Illustrator.",
+                             },
+                            {
+                              title: "Symmetry Chiropractic Logo",
+                              img:
+                                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Symmetry%20Chiropractic%20Logo.jpg',
+                              summary:
+                                "A modern corporate logo design for a chiropractic practice. Designed in Adobe Illustrator.",},
+                            {
+                              title: "Universal Flooring Logo",
+                              img:
+                                'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Universal%20Flooring%20Logo%20MockUp.jpg',
+                              summary:
+                                "A modern corporate logo design for a flooring company. Designed in Adobe Illustrator.",},
+      ]},
       {category: "Flyers",
       designs: []},
       {category:"Banners",

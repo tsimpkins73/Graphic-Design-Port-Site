@@ -327,13 +327,11 @@ section.WorkExperience .PortPiece1 {
 
     .WEHeadline { 
         grid-area: WEHeadline; 
-        box-shadow: 2px 2px 2px grey;
-        background: teal;
-    color: white;
+    color: teal;
     padding: 1%;
     width: 50%;
     margin: auto;
-    font-size: 3em;
+    font-size: 5em;
     border-radius: 5px 25px;
 }
 

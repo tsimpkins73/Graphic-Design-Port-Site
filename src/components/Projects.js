@@ -16,11 +16,15 @@ export default class Projects extends React.Component {
                <h2 className="WEHeadline">Projects</h2>
               <div className={(this.props.isProjectsBlurred ? 'ProjectsBlurred' : 'projectPreviews')}>
       {this.props.projects.map(function (project) {
-                return <div className="projectPreviewContainer">
-                  <h2 className="WEHeadline">{project.catgeory}</h2>
+                return <div className="projectCategory">
+                  <h2 className="categoryHeadline">{project.category}</h2>
+                  <div className="projectCategoryDisplay">
                     {project.designs.map(function (design) {
-                     return <ProjectPreview project={design} openProjectModal={openProjectModal} />
-                    })}                
+                     return <div className="projectPreviewContainer">
+                       <ProjectPreview project={design} openProjectModal={openProjectModal} />
+                       </div>
+                    })}          
+                    </div>      
                     </div>
             })}
             </div>
