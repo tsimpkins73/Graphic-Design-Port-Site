@@ -125,20 +125,20 @@ export default class App extends React.Component {
           img:
             'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/brochures/Academic%20Alliance%20Brochure.jpg',
           summary:
-            "A contemporary logo design for a repair company. Designed in Adobe Illustrator.",
+            "A contemporary brochure of offered services designed for a dermatology practice.  Designed in Adobe Illustrator.",
          },
         {
-          title: "CPA Logo",
+          title: "Basal Cell Carcinoma Brochure",
           img:
-            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Bayshore-CPA-Logo-Mockup.jpg',
+            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/brochures/Basal%20Cell%20Carcinoma%20Brochure.jpg',
           summary:
-            "A contemporary logo design for a CPA. Designed in Adobe Illustrator.",},
+            "A contemporary brochure to inform patients about Basal Cell Carcinoma designed for a dermatology practice. Designed in Adobe Illustrator.",},
         {
-          title: "Memory Care Center Logo",
+          title: "Bliss Medispa Brochure",
           img:
-            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/logos/Bayshore-Memory-Care-Logo-Mockup.jpg',
+            'https://raw.githubusercontent.com/tsimpkins73/Graphic-Design-Port-Site/main/images/graphic%20design/brochures/Bliss%20Medispa%20Brochure.jpg',
           summary:
-            "A contemporary logo design for a memory care center. Designed in Adobe Illustrator.",},
+            "A contemporary brochure of offered services designed for a medispa.  Designed in Adobe Illustrator.",},
             {
               title: "Blue Star Insurance Logo",
               img:
