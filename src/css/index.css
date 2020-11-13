@@ -1003,7 +1003,8 @@ input[type="text"] {
     font-family: helvetica;
     width: auto;
     height: auto;
-    display: block;
+    grid-template-rows: .5fr 1fr .25fr .25fr;
+    display: inline-grid;
     vertical-align: top;
 }
 
