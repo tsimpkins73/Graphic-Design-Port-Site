@@ -1,31 +1,31 @@
-'use strict';
-import React from 'react';
-import '../css/index.css'
+"use strict";
+import React from "react";
+import "../css/index.css";
 
 export default class AboutMe extends React.Component {
-  
-  render(){
-  return (
-    <section className={'BioSection'} id="section1">
+  render() {
+    return (
+      <section className={"BioSection"} id="section1">
         <div id="AboutMeText">
-       <h2>Hi, I'm Travis</h2>
-       <p id="AboutMeText-para">I truly enjoy building and creating new things. Whether it’s building Lego creations
-          with my children, drawing, painting, or anything else, I love the process of making something new. That
-          enjoyment of creation is what led me to a career in graphic design and now to web development.
-<br></br><br></br>
-          I'm a PERN stack developer with 15 years of graphic design experience and a passion for improvement. I am
-          competently proficient in a variety of Web Development skills including; HTML5, CSS, JS, jQuery, React,
-          Node, & PostgreSQL. Additionally, being the main source for all things IT in the small businesses I’ve
-          worked for has given me a dedication to documentation and concise and usable communication. I’m looking
-          forward to creating fantastic things with a team of great programmers. </p>
-       <a href="https://github.com/tsimpkins73" id="profile-link" target="_blank" rel="noopener noreferrer">See
-          my Github here.</a>
-
-    </div>
-    <div id="AboutMeImage">
-       </div>
- </section>
-  );
+          <h2>Hi, I'm Travis</h2>
+          <p id="AboutMeText-para">
+            I truly enjoy building and creating new things. Whether it’s
+            building Lego creations with my children, drawing, painting, or
+            anything else, I love the process of making something new. That
+            enjoyment of creation is what led me to a career in graphic design
+            and now to web development.
+            <br></br>
+            <br></br>I am a Graphic Artist with a passion for creating designs
+            that perform for my clients and over 15 years of substantial
+            multi-industry design experience to back up that passion. I have
+            designed nearly everything from newspaper ads to banners to car
+            vinyls to web sites. My wealth of experience has given me a strong
+            ability to produce designs that will not just look great on screen
+            but will actually do great things for you and your business.
+          </p>
+               </div>
+        <div id="AboutMeImage"></div>
+      </section>
+    );
   }
 }
-

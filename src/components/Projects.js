@@ -1,6 +1,5 @@
 'use strict';
 import React from 'react';
-import Carousel from './Carousel'
 import '../css/index.css'
 import '../css/projects.css'
 import ProjectPreview from './ProjectPreview';

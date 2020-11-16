@@ -810,7 +810,7 @@ body {
 .welcome-section {
     margin: 0;
     padding: 1%;
-    background-image: linear-gradient(rgba(124, 242, 248, 0.5), rgba(124, 242, 248, 1)), url(https://images.pexels.com/photos/249798/pexels-photo-249798.png);
+    background-image: linear-gradient(rgba(124, 242, 248, 0.5), rgb(86, 85, 88)), url(../images/AdobeStock_102913842.jpeg);
     background-size: cover;
     background-color: #FFFFFF;
     background-repeat: no-repeat;
@@ -837,7 +837,7 @@ li {
 }
 
 .BioSection {
-    background-color: cadetblue;
+    background-color: black;
     width: auto;
     position: relative;
     margin: 0;
@@ -896,7 +896,7 @@ img {
     z-index: 0;
     font-size: 1em;
     border-radius: 0% 0% 49% 50% / 10% 10% 40% 40%  ;
-    background-color: teal;
+    background-color: blueviolet;
     box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.19);
     color: white;
     -webkit-animation: slide-in-left 1s both;

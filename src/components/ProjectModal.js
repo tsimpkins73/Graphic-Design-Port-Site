@@ -1,6 +1,5 @@
 'use strict';
 import React from 'react';
-import Carousel from './Carousel'
 import '../css/index.css'
 
 export default class ProjectModal extends React.Component {
