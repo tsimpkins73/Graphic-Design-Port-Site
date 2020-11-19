@@ -7,13 +7,13 @@
         padding: 20% 3% 10%;
         display: block;
         z-index: 3;
-        background-color: greenyellow;
+        background-color: blueviolet;
         border-radius: 500% 1000%/100% 0%;
     }
 
     div.projectPreviewContainer {
         display: inline-block;
-        background-color: teal;
+        background-color:black;
         grid-column-gap: 1.5em;
         vertical-align: top;
         margin: 5%;
@@ -78,7 +78,7 @@ div.projectPreviewContainer {
     padding: 20% 3% 10%;
     display: block;
     z-index: 3;
-    background-color: greenyellow;
+    background-color: blueviolet;
     border-radius: 0% 0% 50% 50% / 10% 10% 40% 0% ;
 }
 
@@ -96,7 +96,7 @@ div.projectPreviewContainer {
 
 .projectPreviewContainer {
     display: inline-block;
-    background-color: teal;
+    background-color:black;
     grid-column-gap: 1.5em;
     vertical-align: top;
     margin: 5%;
@@ -120,7 +120,7 @@ img.project-pic {
 }
 
 .projectModal {
-    background-color: teal;
+    background-color:black;
     color: white;
     margin: auto;
     padding: 5%;
@@ -156,7 +156,7 @@ img.project-pic {
 
 .categoryHeadline{
     box-shadow: 2px 2px 2px grey;
-    background:teal;
+    background:black;
 color: white;
 padding: 1%;
 width: 30%;
