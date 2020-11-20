@@ -432,7 +432,7 @@ div#AboutMeImage {
         display: inline-block;
         font-size: 100%;
         height: 20px;
-        width: auto;
+        width: 100%;
         line-height: 1em;
     }
 
@@ -969,7 +969,7 @@ fieldset {
 
 input[type="submit"],
 .portfolioLinks {
-    width: 242px;
+    width: 100%;
     margin: 3%;
     font-size: 16px;
     color: white;
@@ -997,16 +997,23 @@ input[type="text"] {
     height: 40px;
 }
 
+.portPieceHeadline {
+    font-size: inherit;
+}
 
 .PortPiece1 {
     margin: 0px auto;
     margin-top: 0;
     font-family: helvetica;
     width: auto;
-    height: auto;
-    grid-template-rows: .5fr 1fr .25fr .25fr;
-    display: inline-grid;
-    vertical-align: top;
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-between;
+    vertical-align: baseline;
 }
 
 h2.contactLinks a {

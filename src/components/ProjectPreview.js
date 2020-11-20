@@ -15,8 +15,8 @@ export default class ProjectPreview extends React.Component {
     let project =this.props.project;
   return (
         <section className="ProjectPreview">
-             <div class="PortPiece1">
-            <h2>{project.title}</h2>
+             <div className="PortPiece1">
+            <h2 className="portPieceHeadline" >{project.title}</h2>
             <img class="project-pic" src={`${process.env.PUBLIC_URL}/${project.img}`} alt={project.title} ></img>
             <p>{project.summary}
             </p>

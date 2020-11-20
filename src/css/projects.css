@@ -39,7 +39,7 @@
 
     div.projectCategoryDisplay {
         display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
       
     }
         
@@ -60,7 +60,7 @@ div.projectPreviewContainer {
     grid-column-gap: 1.5em;
     vertical-align: top;
     margin: 5%;
-    padding: 3% 15%;
+    padding: 3%;
     border-radius: 2% 5%;
     font-size: 1em;
    }
@@ -153,6 +153,15 @@ img.project-pic {
     display: block; 
 }
 
+.projectCategory {
+    width: 100%;
+    display: block; 
+}
+
+
+.ProjectPreview{
+    margin: inherit;
+}
 
 .categoryHeadline{
     box-shadow: 2px 2px 2px grey;
