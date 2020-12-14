@@ -381,6 +381,47 @@ export default class App extends React.Component {
                           summary:
                           "A modern review postcard designed for a bath & kitchen remodeling company. Designed in Adobe Illustrator.",},
                 ]},
+                {category: "Web Development",
+              designs: [
+                {
+                  title: "Web Dev Toolkit App",
+                  img:
+                    "https://github.com/tsimpkins73/PORT-SITE/blob/master/images/WDTK-Dashboard-SC.png?raw=true",
+                        summary:
+                    "Web Dev Toolkit is an aggregated resource hub. This app makes it easy for Web Developers to find learning and working resources in one location. Github Repository Link: https://github.com/tsimpkins73/Web-Dev-Toolkit-Client, Live Site Link: https://web-dev-toolkit-client.now.sh/",
+                   },
+                {
+                  title: "theConsole Web Development Blog",
+                  img:
+                    "https://github.com/tsimpkins73/PORT-SITE/blob/master/images/theConsole-Dashboard-SC.png?raw=true",
+                                    summary:
+                    "theConsole is a blog dedicated to republishing articles useful to and centered around web development. Github Repository Link: https://github.com/tsimpkins73/theConsole, Live Site Link: https://theconsole-thankful-cassowary.now.sh/",
+                             },
+                {
+                  title: "Flipping Wars",
+                  img:
+                    "https://raw.githubusercontent.com/tsimpkins73/PORT-SITE/master/images/FlippingAppScreenshot.png",
+                  
+                  summary:
+                    " A buying and selling game where you buy low and (hopefully) sell high. It is built with HTML5, CSS, JavaScript, & React. Github Repository Link: https://github.com/tsimpkins73/Flipping-Game, Live Site Link: https://flipping-wars.vercel.app/",
+                               },
+                {
+                  title: "Marvel Character Search App Project",
+                  img:
+                    "https://raw.githubusercontent.com/tsimpkins73/PORT-SITE/master/images/CharacterSearchAppScreenshot.png",
+                                      summary:
+                    "This is a character search app that returns images, storylines and other information about the searched character. Github Repository Link: https://github.com/tsimpkins73/Marvel-Character-Search-App, Live Site Link: https://tsimpkins73.github.io/Marvel-Character-Search-App/",
+                                 },
+                {
+                  title: "Marvel Quiz App",
+                  img:
+                    "https://repository-images.githubusercontent.com/193247239/5c9a6380-98e7-11e9-99c1-e985be06553d",
+                                    summary:
+                    "This is a functional quiz app abotu Marvel comics characters. Github Repository Link: https://github.com/tsimpkins73/Quiz-App, Live Site Link: https://tsimpkins73.github.io/Quiz-App//",
+                  description:
+                    "This is a functional quiz app built with HTML5, CSS, Javascript, & Jquery.",
+                },
+              ],}
       ],
     };
   }
